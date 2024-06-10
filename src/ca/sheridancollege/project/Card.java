@@ -11,6 +11,7 @@ package ca.sheridancollege.project;
  *
  * @author dancye
  * modified by Rohitpal Singh
+ * modified by Kamaldeep Kaur
  */
 public abstract class Card implements Comparable<Card> {
     //default modifier for child classes

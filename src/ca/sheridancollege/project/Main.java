@@ -7,6 +7,7 @@ package ca.sheridancollege.project;
 /**
  *
  * @author rohit
+ * @author kamal
  */
 public class Main {
     public static void main(String[] args) {

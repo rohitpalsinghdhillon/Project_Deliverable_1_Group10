@@ -7,6 +7,7 @@ package ca.sheridancollege.project;
 /**
  *
  * @author rohit
+ * @author kamal
  */
 public class PlayingCard extends Card {
     private String rank;
